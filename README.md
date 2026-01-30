@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KanishkaCU
-- 👀 I’m just interested in fullstack
+- 👀 Fullstack Web developer
 - 🌱 b.tech AI&DS student
 
 
